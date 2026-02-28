@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.81.31200.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:06.412%0D%0AWhich%20actions%20can%20you%20perform%20directly%20in%20the%20Trend%20Tracker%20system?%20Select%20all%20that%20apply%0D%0A%0D%0A"}')
